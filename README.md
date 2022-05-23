@@ -5,7 +5,7 @@ Hi, my name is Brian Whiting. I am a front-end web developer and UI/UX Designer 
 
 In case you need to reach me:
 
-- [my email](brianwhiting@bwhitingdesigns.com)
+- [my email](mailto:brianwhiting@bwhitingdesigns.com)
 - [my twitter](https://www.twitter.com/ForsakenElite08)
 - [my portfolio](https://www.bwhitingdesigns.com)
 
